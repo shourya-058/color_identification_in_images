@@ -1,0 +1,4 @@
+Hello everyone, here is your friend Sourabh Yadav.
+I got an awesome task for my Graduate Rotational Internship Program @ #TheSparksFoundation titled,
+"Color Identification In Images".
+I made it on Python Interpreter, using OpenCV and Pandas modules. 
